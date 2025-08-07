@@ -1,0 +1,11 @@
+{
+  "chainId": 101,
+  "address": "CBTuVEM1Z5z5ddfQVEGAAHPN1ckj6j97zHvKtrc78suj",
+  "symbol": "NRG",
+  "name": "Neurogen",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/NeurogenAI2025/neurogen-tokenlist/main/tokens/solana/logo.png",
+  "tags": ["utility-token", "ai"]
+}
+
+
